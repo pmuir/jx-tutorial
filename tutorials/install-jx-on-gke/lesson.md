@@ -107,6 +107,8 @@ cd cloudshell-tutorial
 jx promote cloudshell-tutorial --version 0.0.1 --env production
 ```
 
+> When prompted for your github username and password, remember to use api token generated in Step 2 as the password.
+
 You can check the progress of the production deployment using:
 
 ```bash
